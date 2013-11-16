@@ -3,6 +3,7 @@
 	"version": "0.0.0",
 	"author": "CoderPuppy",
 	"description": "Wrapper around mux-demux that makes it symetric",
+	"repository": "git://github.com/CoderPuppy/muxy.git",
 	"dependencies": {
 		"mux-demux": "^3.7.8",
 		"through": "^2.3.4"
