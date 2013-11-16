@@ -1,4 +1,3 @@
-timestamp = require 'monotonic-timestamp'
 muxDemux  = require 'mux-demux'
 through   = require 'through'
 
